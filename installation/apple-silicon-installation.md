@@ -62,7 +62,7 @@ After you have selected the correct disk image file, it should look like the scr
 
 No other changes are required, so at this point you'll click **Continue** 4 times, followed by **Save**.
 
-You're virtual machine is now configured!
+The virtual machine is now configured!
 
 ### Step 5: Start the Virtual Machine and install Ubuntu
 
