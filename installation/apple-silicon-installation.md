@@ -10,7 +10,7 @@
 
 [Ubuntu Download Page](https://cdimages.ubuntu.com/jammy/daily-live/pending/)
 
-![UTM Download Screenshot](./media/utm.png)
+![UTM Download Screenshot](./media/download.png)
 
 ##### Step 3: Install UTM
 
